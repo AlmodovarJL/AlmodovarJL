@@ -17,7 +17,7 @@
 <!-- Right-side gif -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding gif" />
 
-- 🎓 4th Year **BS Computer Engineering** student
+- 🎓 Graduate of **BS Computer Engineering** 
 - 💻 Interested in **Web Development, Databases, IoT, and Software Engineering**
 - 🔭 Currently working on projects involving **Yii2, Arduino, and Dashboard Systems**
 - 🤝 Open to collaboration on **open-source and innovative tech solutions**

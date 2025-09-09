@@ -1,30 +1,33 @@
 <!-- Header -->
-<h1 align="left">Hi there, I'm YOUR_NAME 👋</h1>
+<h1 align="left">Hi there, I'm John Luie R. Almodovar 👋</h1>
 
-<p><em>Web Developer</em></p>
+<p><em>Computer Engineering Student | Aspiring Full-Stack Developer</em></p>
 
-> Learning constantly to be better at scalable web solutions  
-> “If there’s an opportunity, I would like to create myself my own general computer.”
+> Passionate about **software development, system design, and innovative solutions**.  
+> Constantly learning and improving to build efficient, scalable, and user-friendly applications.  
+> “Code is not just about solving problems — it’s about creating possibilities.”
 
-<!-- Right-side image (optional) -->
-<img align="right" src="assets/retro-dev.gif" width="220" alt="retro developer gif" />
+<!-- Right-side gif -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding gif" />
 
-## About Me
-- 🔭 Currently learning **.NET, Visual Basic, MSSQL, C#**
-- 🤝 Open to joining new projects and collaborations
-- 💬 Happy to help fellow devs or answer tech questions
-- 🎮 I like playing computer games
-- 🏕️ I enjoy adventures like camping and hiking
-- 📺 Fascinated by documentaries about history, mysteries, and successful people
+## 👨‍💻 About Me
+- 🎓 4th Year **BS Computer Engineering** student
+- 💻 Interested in **Web Development, Databases, IoT, and Software Engineering**
+- 🔭 Currently working on projects involving **Yii2, Arduino, and Dashboard Systems**
+- 🤝 Open to collaboration on **open-source and innovative tech solutions**
+- 💬 Ask me about **Web Development, SQL Databases, and Arduino-based Systems**
+- 🎮 I enjoy playing strategy and adventure games
+- 🏕️ I love outdoor activities like camping and hiking
+- 📚 Passionate about **learning new frameworks and best coding practices**
 - 🔗 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
 
 - 🌐 Visit my portfolio: **YOUR_PORTFOLIO_URL**
 
 ---
 
-## Skills
+## 🚀 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,10 +47,10 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-<!-- Optional: Visitors counter -->
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat) -->
+<!-- Visitors counter -->
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)

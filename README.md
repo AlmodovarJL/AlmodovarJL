@@ -22,7 +22,7 @@
 - 🔗 Connect with me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/john-luie-almodovar-559a4133a/)  
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DA3LntgSw/?mibextid=wwXIfr)
 
 - 🌐 Visit my portfolio: **YOUR_PORTFOLIO_URL**
 

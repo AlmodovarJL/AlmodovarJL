@@ -30,7 +30,7 @@
 https://www.linkedin.com/in/john-luie-almodovar-559a4133a/)  
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DA3LntgSw/?mibextid=wwXIfr)
 
-- 🌐 Visit my portfolio: https://github.com/AlmodovarJL?tab=repositories
+- 🌐 Visit my portfolio: https://almodovarjl.github.io/Portfolio/
 
 ---
 

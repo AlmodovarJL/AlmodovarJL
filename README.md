@@ -1,5 +1,8 @@
 <!-- Header -->
-<h1 align="left">Hi there, I'm John Luie R. Almodovar 👋</h1>
+<h1 align="left">
+  Hi there, I'm John Luie R. Almodovar 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p><em>Computer Engineering Student | Aspiring Full-Stack Developer</em></p>
 
@@ -9,7 +12,7 @@
 
 
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="40"> About Me
 
 <!-- Right-side gif -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding gif" />
@@ -56,5 +59,3 @@ https://www.linkedin.com/in/john-luie-almodovar-559a4133a/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmodovarJL&show_icons=true&theme=tokyonight)  
 ![Streak](https://streak-stats.demolab.com?user=AlmodovarJL&theme=tokyonight)  
 
-<!-- Visitors counter -->
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)

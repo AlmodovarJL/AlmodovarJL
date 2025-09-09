@@ -8,7 +8,7 @@
 > “Code is not just about solving problems — it’s about creating possibilities.”
 
 <!-- Right-side gif -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding gif" />
 
 ## 👨‍💻 About Me
 - 🎓 4th Year **BS Computer Engineering** student

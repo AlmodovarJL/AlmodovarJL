@@ -8,7 +8,7 @@
 > “Code is not just about solving problems — it’s about creating possibilities.”
 
 <!-- Right-side gif -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" />
 
 ## 👨‍💻 About Me
 - 🎓 4th Year **BS Computer Engineering** student
@@ -50,7 +50,6 @@ https://www.linkedin.com/in/john-luie-almodovar-559a4133a/)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmodovarJL&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmodovarJL&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 <!-- Visitors counter -->

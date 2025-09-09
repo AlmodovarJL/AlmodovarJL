@@ -7,10 +7,13 @@
 > Constantly learning and improving to build efficient, scalable, and user-friendly applications.  
 > “Code is not just about solving problems — it’s about creating possibilities.”
 
+
+
+## 👨‍💻 About Me
+
 <!-- Right-side gif -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding gif" />
 
-## 👨‍💻 About Me
 - 🎓 4th Year **BS Computer Engineering** student
 - 💻 Interested in **Web Development, Databases, IoT, and Software Engineering**
 - 🔭 Currently working on projects involving **Yii2, Arduino, and Dashboard Systems**
